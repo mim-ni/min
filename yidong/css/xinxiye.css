@@ -1,0 +1,92 @@
+.yi{
+    background-color: antiquewhite;
+}
+.yi .yiy{
+    height: 7vh;
+    background-color: aqua;
+}
+.yiy .yz{
+    width: 20vw;
+    height: 7vh;
+    margin: auto;
+    background-color: antiquewhite;
+    line-height: 7vh;
+    text-align: center;
+    font-size: 2.2vh;
+}
+.yiy .yy{
+    width: 20vw;
+    height: 7vh;
+    background-color: blue;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+.yy span{
+    width: 8vw;
+    height: 8vw;
+    background-color: blueviolet;
+    float: right;
+    margin-top: 1.6vh;
+    margin-right: 2vw;
+    border-radius: 8vw;
+    font-size: 4vh;
+    text-align: center;
+    line-height: 8vw;
+}
+.yie div{
+    height: 8vh;
+    background-color: rgb(192, 192, 192);
+    overflow: auto;
+}
+.yie div span{
+    float: left;
+}
+.yie div .tup{
+    width: 8vh;height: 8vh;background-color: blue;
+}
+.yie div .tup img{
+    width: 6vh;height: 6vh;background-color: aquamarine;margin: 1vh;
+}
+.yie div .neir{
+    height: 8vh;
+}
+.yie div .neir span{
+    display: block;
+}
+.yie .neir .biaot{
+    width: 20vw;
+    height: 3vh;
+    background-color: bisque;
+}
+.yie .neir .neiro{
+    width: 20vw;
+    height: 3vh;
+    /* background-color: aqua; */
+}
+
+
+
+
+
+.yi .yis{
+    width: 100vw;
+    height: 9vh;
+    background-color: black;
+    position: absolute;
+    bottom: 0;
+}
+.yis div{
+    width: 25vw;
+    height: 9vh;
+    background-color: blue;
+    float: left;
+}
+.yis div span{
+    width: 10vw;
+    height: 10vw;
+    display: block;
+    background-color: blueviolet;
+    margin: auto;
+    font-size: 1.4vh;text-align: center;
+}

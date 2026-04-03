@@ -1,0 +1,133 @@
+
+        .ys li{
+            list-style: none;
+            margin-left:7vw;
+            margin-right:7vw;
+        }
+
+        .ysy div{
+            width: 6vw;height: 6vw;padding-top: 5.54vh; translate:-3.5vw;font-size: 4vw;
+        }
+        .yse div{
+            /* width: 30vw; */
+            height: 10vw;
+            margin: auto;
+            text-align: center;
+            line-height: 10vw;
+            font-size: 5vw;
+            margin-top: 7vh;
+            font-weight:500;
+        }
+        .yss{
+            height: 12vw;border-top: 1px solid rgb(216, 216, 216);margin-top: 4.6vh;
+        }
+        .yss div{
+            /* width: 16vw; */
+            height: 12vw;
+            font-size: 4vw;
+            float: left;
+            line-height: 12vw;
+        }
+
+        .ys .nero{
+            margin-left: 5vw;
+        }
+
+        .ysss{
+            height: 12vw;border-top: 1px solid rgb(216, 216, 216);
+        }
+        .ysss div{
+            height: 12vw;
+            float: left;line-height: 12vw;font-size: 4vw;
+        }
+        .ysss .wzhong{
+            margin-left: 10vw;
+        }
+        .ysss .wyou{
+            margin-left: 6vw;
+        }
+        .ysss div input{
+            width: 66vw;
+            font-size: 4vw;
+            outline: none;
+            border: 0;
+            float: left;
+            margin-top: 3.8vw;
+        }
+
+        .ysss .qingc span{
+            width: 5vw;height: 5vw;
+            display: block;
+            background-color: aqua;margin-top: 3.5vw;
+        }
+        .ysss .sdr div{
+            height: 12vw;
+            float: left;
+        }
+        .ysss .sdr div:nth-child(2){
+            /* width: 20vw; */
+            margin-left: 5vw;
+        }
+        .ysss .sdr div:nth-child(4){
+            padding: 0vw 2vw;
+        }
+        .ysss .sdr div input{
+            width: 36vw;
+            background-color: aqua;
+        }
+        .ysss .sdr div .spanx{
+            width: 5vw;
+            height: 5vw;
+            display: block;
+            background-color: aqua;
+            margin-top: 3.7vw;
+            margin-left: 2vw;
+        }
+        .ysss .sdr div .yianzm{
+            /* width: 22vw; */
+            height: 8vw;
+            background-color: rgb(233, 233, 233);
+            display: block;
+            margin-top: 2vw;
+            padding: 0vw 3vw;
+            line-height: 8vw;
+            font-size: 3.2vw;
+            border-radius: 1vw;
+        }
+        
+        .ysw{
+            height: 12vw;border-top: 1px solid rgb(216, 216, 216);
+        }
+        .ysw div{
+            height: 4vw;
+            margin-top: 4vw;
+            line-height: 4vw;
+            font-size: 3.4vw;
+            color: rgb(43 103 139);
+        }
+        /* .ysl{
+            height: 6vw;
+        }
+        .ysl div{
+            font-size: 3.4vw;line-height: 6vw;color: rgb(56, 86, 150);letter-spacing:0.1vw;
+        } */
+        .ysq{
+            height: 12vw;margin-top: 37.1vh;
+        }
+        .ysq div{
+            width: 42vw;
+            height: 12vw;background-color: rgb(92, 92, 92);border-radius: 1.4vw;line-height: 12vw;text-align: center;color: aliceblue;background-color:mediumseagreen;margin: auto;font-size: 3.8vw;
+        }
+        .ysb{
+            height: 6vw;margin-top: 5.6vh;margin-bottom: 3vw;
+        }
+        .ysb div{
+            width: 100%;  height: 3.4vw;display: flex;justify-content: center;
+            
+        }
+        .ysb div span{
+            height: 3.4vw;display: inline-block; border-right: 1px  solid rgb(216, 216, 216);float: none; font-size: 3.2vw;line-height: 3.4vw;color: rgb(56, 86, 150);padding: 0vw 2vw;
+        }
+        .ysb .byou{
+            border-right: 0;margin-right: 0;
+        }
